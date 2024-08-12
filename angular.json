@@ -43,6 +43,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "https://[estherherrera.github.io/Angular-countries/]",
               "budgets": [
                 {
                   "type": "initial",
